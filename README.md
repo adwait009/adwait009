@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @adwait009
-- 👀 I’m interested in Software Domain
-- 🌱 I’m currently learning about Data Engineering
+## Hey there 👋 
+I am Adwait Chavan, an enthusiast currently digging into Data Engineering.
+- 👀 I’m interested in Software projects.
 - 📫 How to reach me --> adwaitchavan009@gmail.com
 
 <!---
