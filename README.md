@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adwait009
-- 👀 I’m interested in Electronics and Computers
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate with Google.
+- 👀 I’m interested in Software Domain
+- 🌱 I’m currently learning about Data Engineering
 - 📫 How to reach me --> adwaitchavan009@gmail.com
 
 <!---
